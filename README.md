@@ -2,6 +2,8 @@
 
 EasyPIDX (EasyPID Manager) is a tiny Python command-line tool for Windows that lists running processes and provides a keyboard-friendly interface to kill processes by PID.
 
+**Keywords:** python, windows, process manager, task killer, cli tool, pid, tasklist, taskkill, process monitoring, system administration, windows utilities, command line interface
+
 ## Features
 
 - Displays current processes in a table with name, PID, and memory usage
@@ -20,7 +22,7 @@ EasyPIDX (EasyPID Manager) is a tiny Python command-line tool for Windows that l
 1. Clone repo:
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/EasyPIDX.git
+git clone https://github.com/harrymings/EasyPIDX.git
 cd EasyPIDX
 ```
 
